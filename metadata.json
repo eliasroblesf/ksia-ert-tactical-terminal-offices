@@ -1,0 +1,8 @@
+{
+  "name": "ksia-ert-tactical-terminal-offices",
+  "description": "Integrated Multi-Agency Crisis Operations & Cascading Disaster Simulator for King Salman International Airport Office Complex Emergency Response Team Readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
